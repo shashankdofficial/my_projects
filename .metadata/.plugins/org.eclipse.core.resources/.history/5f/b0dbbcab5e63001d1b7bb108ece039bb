@@ -1,0 +1,13 @@
+package com.masai.service;
+
+import org.springframework.stereotype.Service;
+
+import com.masai.entity.User;
+
+@Service
+public class UserService {
+
+	public User registerNewUser(User user) {
+		
+	}
+}
